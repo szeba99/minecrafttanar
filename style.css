@@ -1,0 +1,61 @@
+body
+{
+    margin:0;
+    background-color: rgb(190, 216, 255);
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    font-size: 25px;
+}
+
+#fejlec
+{
+    text-align: center;
+}
+
+#kep
+{
+    background-image: url("background.png");
+    width: 100%; /* 1366px */
+    height: 618px;
+    background-position: center;
+    background-repeat:no-repeat;
+    text-align:center;
+}
+
+#keptext
+{
+    padding-top: 1%;
+    padding-left: 5%;
+    padding-right: 25%;
+    padding-bottom: 15%;
+
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 82px;
+    color: azure;
+    -webkit-text-stroke: 3px;
+    -webkit-text-stroke-color: black;
+}
+
+#kicsitjobbra
+{
+    padding-left:25%;
+}
+
+h1
+{
+    font-family: "Bebas Neue", sans-serif;
+    color: black;
+    font-size: 45px;
+}
+
+#szoveg
+{
+    padding: 2%;
+}
+
+ul
+{
+    padding-top: 1%;
+    padding-left: 15%;
+}
