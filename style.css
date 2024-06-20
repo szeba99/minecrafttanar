@@ -16,13 +16,11 @@ body
 #kep
 {
     background-image: url("background.png");
-    /*width: 100%; /* 1366px */
-    /*height: 618px;*/
-    background-position: center;
+    /*background-position: center;*/
     background-repeat:no-repeat;
     background-size: cover;
     text-align:center;
-    /*flex-grow: 1;*/
+    width:100%;
 }
 
 #keptext
@@ -33,7 +31,8 @@ body
     padding-bottom: 15%;
 
     font-family: "Bebas Neue", sans-serif;
-    font-size: 82px;
+    font-size: 300%; /*82px*/
+    text-align: center;
     color: azure;
     -webkit-text-stroke: 3px;
     -webkit-text-stroke-color: black;
