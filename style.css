@@ -28,7 +28,7 @@ body
     padding-top: 1%;
     padding-left: 5%;
     padding-right: 25%;
-    padding-bottom: 15%;
+    padding-bottom: 20%;
 
     font-family: "Bebas Neue", sans-serif;
     font-size: 300%; /*82px*/
@@ -41,6 +41,7 @@ body
 #kicsitjobbra
 {
     padding-left:25%;
+    font-size: 75%;
 }
 
 h1
@@ -59,4 +60,9 @@ ul
 {
     padding-top: 1%;
     padding-left: 15%;
+}
+
+iframe
+{
+
 }
